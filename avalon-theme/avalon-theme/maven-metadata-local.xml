@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>avalon-theme</groupId>
+  <groupId>avalon-theme-primefaces</groupId>
   <artifactId>avalon-theme</artifactId>
   <versioning>
     <release>2.0.0</release>
     <versions>
       <version>2.0.0</version>
     </versions>
-    <lastUpdated>20190716073210</lastUpdated>
+    <lastUpdated>20190716081128</lastUpdated>
   </versioning>
 </metadata>
